@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "tugas3_120140138",
+    "slug": "tugas3_120140138",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.jhon.tugas3_120140138"
+    }
+  },
+  "name": "tugas3_120140138"
+}
